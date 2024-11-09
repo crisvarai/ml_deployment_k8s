@@ -1,0 +1,9 @@
+category-encoders
+fastapi
+lightgbm
+numpy
+pandas
+pydantic
+scikit-learn
+streamlit
+uvicorn
