@@ -1,0 +1,6 @@
+category-encoders
+numpy
+pandas
+lightgbm
+scikit-learn
+joblib
